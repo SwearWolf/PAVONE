@@ -5,7 +5,7 @@
 
 Case for george-norton's Peacock Trackpad.
 
-For best printing results print on its side.
+For best printing results print on its side with tree supports.
 
 Requires 10x M3x6mm screws and 4x Skuf feet.
 
